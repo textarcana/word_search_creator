@@ -1,0 +1,10 @@
+zoo
+zebra
+rats
+cats
+emu
+bear
+tapir
+stoat
+elephant
+badger
